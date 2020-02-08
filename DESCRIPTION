@@ -1,0 +1,15 @@
+Package: R.oboros
+Type: Package
+Title: The Head Eats The Tail
+Version: 0.1.0
+Author: Chris Fairless
+Maintainer: Chris Fairless <chrisfairless@hotmail.com>
+Description: `tail <- head`.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    utils
+RoxygenNote: 7.0.2
